@@ -31,24 +31,14 @@
       "organizer": "BMC"
     },
     {
-      "id": 789,
+      "id": 729,
       "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Juhu Beach",
-      "date": "22/08/2022",
-      "time": "11:00",
-      "organizer": "BMC"
-    },
-    {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Juhu Beach",
-      "date": "22/08/2022",
-      "time": "11:00",
-      "organizer": "BMC"
+      "title": "Office Meeting",
+      "description": "Report to Manger about event.",
+      "location": "Noida",
+      "date": "21/09/2022",
+      "time": "09:00",
+      "organizer": "Google"
     }
   ]
 }
